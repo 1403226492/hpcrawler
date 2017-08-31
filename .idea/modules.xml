@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebCollector.iml" filepath="$PROJECT_DIR$/WebCollector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../myEclipse/bigdata/bigdata/bigdata.iml" filepath="$PROJECT_DIR$/../../myEclipse/bigdata/bigdata/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/untitled/untitled.iml" filepath="$PROJECT_DIR$/../untitled/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
